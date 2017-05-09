@@ -1740,7 +1740,7 @@
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #06ad9c;
+			border-color: #2983ad;
 		}
 
 	input[type="text"],
@@ -2072,8 +2072,8 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			background: #06ad9c;
-			border-color: #06ad9c;
+			background: #8ba9b7;
+			border-color: #8ba9b7;
 			color: #fff !important;
 		}
 
@@ -2113,7 +2113,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #06ad9c;
+			background-color: #2983ad;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -2128,7 +2128,7 @@
 			.wrapper.style2 .button.special {
 				background: #fff;
 				border-color: #fff;
-				color: #06ad9c !important;
+				color: #2983ad !important;
 			}
 
 				.wrapper.style2 .button.special:hover {
@@ -2350,7 +2350,7 @@
 			}
 
 			.dropotron > li:hover > a {
-				background: #06ad9c;
+				background: #2983ad;
 				color: #fff;
 			}
 
@@ -3233,9 +3233,9 @@
 	flex-direction: row;
 	/*justify-content: space-between;*/
 	align-items: center;
-	background: #06ad9c;
+	background: #8ba9b7;
 }
 
 .dot-blue{
-	color:#06ad9c;
+	color:#2983ad;
 }
