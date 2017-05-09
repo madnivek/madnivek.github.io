@@ -2223,7 +2223,7 @@
 			#header nav ul li {
 				display: inline-block;
 				margin-left: 1.5em;
-				margin-right: 3.5em;
+				margin-right: 0.5em;
 			}
 
 				#header nav ul li > ul {
@@ -2252,7 +2252,7 @@
 					text-decoration: none;
 				}
 
-					#header nav ul li.submenu > a:before {
+					#header nav ul li.submenu > a:after {
 						-moz-osx-font-smoothing: grayscale;
 						-webkit-font-smoothing: antialiased;
 						font-family: FontAwesome;
@@ -2261,9 +2261,9 @@
 						text-transform: none !important;
 					}
 
-					#header nav ul li.submenu > a:before {
+					#header nav ul li.submenu > a:after {
 						content: '\f107';
-						margin-right: 0.65em;
+						margin-left: 0.65em;
 					}
 
 				#header nav ul li.active > a, #header nav ul li:hover > a {
@@ -2329,7 +2329,7 @@
 				border-left: solid 0.5em transparent;
 				border-right: solid 0.5em transparent;
 				content: '';
-				left: 0.75em;
+				left: 11em;
 				position: absolute;
 				top: -0.45em;
 			}
