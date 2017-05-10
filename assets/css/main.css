@@ -3247,3 +3247,7 @@
 	flex-direction: column;
 	align-items: center;
 }
+
+.intro-paragraph{
+	padding:10px;
+}
