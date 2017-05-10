@@ -229,6 +229,7 @@
 		-moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
+		max-width: 550px;
 	}
 
 	.row:after, .row:before {
@@ -3239,4 +3240,10 @@
 
 .dot-blue{
 	color:#2983ad;
+}
+
+.row.project-list{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
