@@ -3251,3 +3251,8 @@
 .intro-paragraph{
 	padding:10px;
 }
+
+#blurb a {
+	color: white !important;
+}
+
